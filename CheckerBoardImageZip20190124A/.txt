@@ -1,0 +1,52 @@
+#  CHECKER_BOARD_SAFETY_VALUE_2
+791245378
+#
+#  Pixel Width and Height
+#
+720 920
+#
+#  Random Flag - is it used
+#
+0
+#
+#  Start Time possibly used for Random Seed
+#
+385829696
+#
+#  File Type: Single layer(0), Or2Layers(1), Xor2Layers(2)
+#
+1
+#
+#  Shape Type: RECTANGLE(0), TRIANGLE(1), ELLIPSE(2)
+#
+1
+#
+#  Parameter Pairs
+#
+0
+#
+#  Parameter Pairs
+#
+0
+#
+#  8 Row col values for each layer
+#
+1 2
+2 1
+4 4
+8 5
+8 18
+184 30
+5 12
+184 20
+#
+#  8 layer pairs for OR or XOR
+#
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+0 0
