@@ -9,7 +9,7 @@ Our main objective is to document the code base. We need to do several things in
    * Determine the purpose of the functions implemented.
    * Create any additional comments if needed.
      * If you do not understand something, contact the Steve @ steve@schlesinger.com.
-     * Learn more about Microsoft Foundation Classes ([MFC](https://docs.microsoft.com/en-us/cpp/mfc/mfc-and-atl?view=vs-2017)).
+     * ~~Learn more about Microsoft Foundation Classes ([MFC](https://docs.microsoft.com/en-us/cpp/mfc/mfc-and-atl?view=vs-2017)).~~
      
 2. After familiarizing yourself with the code, design a UML diagram
    * A good video to refresh yourself on [UML design](https://youtu.be/UI6lqHOVHic)
