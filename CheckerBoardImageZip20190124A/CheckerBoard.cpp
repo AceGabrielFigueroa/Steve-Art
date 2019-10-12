@@ -1,3 +1,4 @@
+//Hello Ace, Just a demo for MLH Hack Day
 #include "stdafx.h"
 #include "CheckerBoard.h"
 #include "BooleanBitmap.h"
